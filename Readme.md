@@ -8,3 +8,4 @@ i animated with the given sprites it's not difficult.
 ## CONTROLS  
 use arrow keys to move, space bar to jump, C to crouch (i added crouch because i did animation for it and there is no practical use for it), left click to attack.  
 Thats It. ### I CANT EVEN SAY ENJOY THE GAME AFTER SEEING THE FINAL PRODUCT, BUT I HOPE YOU GUYS LIKE IT 0_0 .
+https://drive.google.com/drive/folders/1MrSlKwB96N_roPiRKNt2cC9vSQtv7w1E?usp=drive_link
